@@ -1,3 +1,4 @@
+REMOTE
 # conflicts
 I am
 Doing
