@@ -1,7 +1,10 @@
+LOCAL
+
 # conflicts
+
 I am
 Doing
-This 
+This
 Exercise
 From
 Quest
